@@ -1,5 +1,4 @@
-# Programming-Exam-1
-# EECS 2030 Advanced OOP
+# Programming-Exam-1 - Advanced Object Oriented Programming
 This programming exam required us to create an ArrayList of type Integer[], where each value of Integer[] would represent a different combination of numbers. We were 
 required to implement this combination method recursively. For example 5 choose 3 would be stored in ArrayList<Integer[]> combination as [0,1,2], [0,1,3], [0,1,4], [0,2,3].....
 until all possible combinations had been determined.
